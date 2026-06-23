@@ -1,0 +1,7 @@
+db_configs: 
+    host: <dataase_host_ip>
+    user: <sql_username>
+    password: <sql_password>
+    database: models
+
+report_path: /analysis/models_info.html
